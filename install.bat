@@ -1,0 +1,1 @@
+java -cp AgenteSIAR.jar installer.Installer

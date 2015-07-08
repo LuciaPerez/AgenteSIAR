@@ -1,0 +1,1 @@
+start javaw -cp AgenteSIAR.jar -Dcom.sun.management.jmxremote.port=9990  -Dcom.sun.management.jmxremote.rmi.port=9990 -Dcom.sun.management.jmxremote.authenticate=false -Dcom.sun.management.jmxremote.ssl=false jmxRemote.SystemConfigManagement exit
